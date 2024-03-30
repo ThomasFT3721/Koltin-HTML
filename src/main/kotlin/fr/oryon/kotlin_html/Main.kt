@@ -1,5 +1,6 @@
 package fr.oryon.kotlin_html
 
+/*
 fun renderHTML(block: HTML.() -> Unit): String {
     val html = HTML()
     html.block()
@@ -133,4 +134,4 @@ fun main() {
         }
     }
     println(html)
-}
+}*/
